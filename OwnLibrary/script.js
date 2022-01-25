@@ -31,7 +31,7 @@ ArToolkitContext.init(function(){
 var ArMarkerControls = new THREEx.ArMarkerControls(ArToolkitContext, camera,
 {
 	type: 'pattern',
-	patternUrl: 'pattern-marker.patt',
+	patternUrl: 'pattern-ihab.patt',
 	changeMatrixMode: 'cameraTransformMatrix'
 	
 });
